@@ -1,0 +1,8 @@
+test/java/test_cases/testSearchProduct.class
+test/java/test_cases/testProductDetails.class
+test/java/test_cases/testSortProductItems.class
+test/java/config/driverManager.class
+test/java/test_cases/testAllProductListItems.class
+test/java/pages/myntraAllProductListPage.class
+test/java/pages/myntraProductDetailsPage.class
+test/java/test_cases/testAddtoWishlist.class

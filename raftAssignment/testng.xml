@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Raft Assigment for Myntra Product Listings">
+    <test name="Search for all products">
+        <classes>
+            <class name="test_cases.testAddtoWishlist"/>
+            <class name="test_cases.testAllProductListItems"/>
+            <class name="test_cases.testProductDetails"/>
+            <class name="test_cases.testSearchProduct"/>
+            <class name="test_cases.testSortProductItems"/>
+        </classes>
+    </test>
+</suite>
