@@ -10,7 +10,7 @@ Make sure you have the following installed before running the tests:
 * Web browser drivers (e.g., SafariBrowser, ChromeDriver)
 
 ### Setup
-1. Clone the repository:git clone https://github.com/your-username/selenium-testing-project-java.git
+1. Clone the repository:git clone (https://github.com/KavitaChatar/raftAssignment.git)
 2. Download Selenium WebDriver and browser drivers. Place the drivers in a directory included in your system's PATH.
 
 ### Running Tests
